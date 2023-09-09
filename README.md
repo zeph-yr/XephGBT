@@ -13,16 +13,35 @@ TLDR: I am JDFixer and Chirality on steroids, but Chat. And this is just the beg
 - Option to filter requests by viewer. For example, limit requests to Subscribers, VIPs, and/or Moderators
 - Personalized response messages. XephGBT will refer to you by your name instead of "the broadcaster" :)
 
+## Viewers: How to troll the streamer
+### Commands
+Type `!xg [space]` followed by one of the available requests:
+  - `invert`
+  - `colors`
+  - `mirror`
+  - `jd [space] [a number: any integer or decimal value]`
+  - `njs [space] [a number: any integer or decimal value]`
+
+### In-chat Help
+- Type `!xg help` for a list of commands in-chat
+- Type `!xg info` or `!xg supporter` to learn more or to share the mod with your community
+
+### ChannelPoint Redeems
+- When redeeming a JD or NJS change, be sure to enter a value in the Redeem message that you'd like the streamer to play!
+- If submit the redeem without inputting a value, I will pick one for you.
+- You may want to ask the streamer what are their limit settings. Please be respectful towards the person playing the game.
+
+
 ## How To Use
 - Place XephGBT.dll into your `Plugins` directory
-- If you are a Supporter, configure your settings to get the most of the experience! See next section.
+- If you are a Supporter, configure your settings to get the most of the experience! See the next section.
 - Run game, start stream, and have fun with your viewers!
 
 ## Set Up Stream ChannelPoints and Limits
 - Create new ChannelPoints redemptions for your stream account. If you're unsure how to do that visit Twitch's help page here
 - Give each one a name. The defaults for the mod are "Invert Map", "Swap Colors", "Mirror Map", "Change JD", and "Change NJS" but feel free to change them to your liking.
 - For the JD and NJS redemptions: *enable the enter a message option*. I suggest you write a message to ask your viewer to enter a number. If your viewer does not enter a number when they redeem, I'll pick a random value for them within the limits you've set.
-- Open `XephGBT.json` located in your `BeatSaber\UserData` directory. Enter the **exact*** names that you've given to your redemptions for their respective entries. Save and close.
+- Open `XephGBT.json` located in your `BeatSaber\UserData` directory. Enter the **exact** names that you've given to your redemptions for their respective entries. Save and close.
 - **Image here**
 - For JD and NJS limits: You may set *any* integer or float. Yes, any.
 - A side note: It is highly discouraged to touch the other fields in the file. Those are for Bloq Transformers to read and not intended for humans to touch. In the event you've perturbed them, delete the config file and restart the game :)
