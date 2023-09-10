@@ -68,21 +68,21 @@ Type `!xg [space]` followed by one of the available transformations:
 - Place `XephGBT.dll` into your `Plugins` directory
 - If you are a Supporter, configure settings to get the most of the experience!
 - Run game, start stream, and have fun with your community!
-
+- Requires: BSML, BS_Utils, SiraUtil
 
 #### Supporters: Setup ChannelPoints Rewards and Limits
 #### Step 2. Stream-side Settings
-- Create new ChannelPoints Rewards in your stream account. If you're unsure, refer to [Twitch's guide here.](https://help.twitch.tv/s/article/channel-points-guide)
-- Give each a name. If you need ideas, you can use `Invert Map`, `Swap Colors`, `Mirror Map`, `Change JD`, `Change NJS`.
+- Create new Rewards in your channel. If you're unsure, refer to [Twitch's guide here.](https://help.twitch.tv/s/article/channel-points-guide)
+- Give each a **unique** name. If you need ideas, you can use `Invert Map`, `Swap Colors`, `Mirror Map`, `Change JD`, `Change NJS`.
 - For JD and NJS rewards: **Enable the `Require Viewer to Enter Text` option**. In the descriptions, I recommend you ask viewers to enter a number. If a viewer does not enter a number when they redeem, I'll pick a random value within the limits you've set.
 <br><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/reward.png" width="250"/> <img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/config.png" width="300"/><br>
 
 #### Step 3. XephGBT Config File
-- Open `XephGBT.json` located in your `Beat Saber\UserData` directory. Fill out the respective fields with the **exact names** of your rewards.
-- For JD and NJS limits: You may set *any* integer or float for `min_jd`, `max_jd`, `min_njs`, and `max_njs`. Yes, any. Save and close.
-- A side note: It is highly discouraged to edit any other fields in the file. They're for BloqTransformers to read and not intended for humans. In the event you've perturbed them, delete the config file and restart the game. You've contaminated it. I'll generate a new one. 🙂
+- Open `XephGBT.json` located in your `Beat Saber\UserData` directory. Fill out the fields with the **exact names** of your rewards.
+- Define JD and NJS limits: *Any* integer or float for `min_jd`, `max_jd`, `min_njs`, and `max_njs` is accepted. Save and close.
+- Side note: It is highly discouraged to edit other fields in the file. They're for BloqTransformers to read, not humans. In the event you've perturbed them, delete the config file and restart game. You contaminated it. I'll generate a new one. 🙂
 
-### Take Note Before Downloading
+### Disclaimer Before Downloading
 Mods that interact with chat or change gameplay in real-time require streaming, VR and game-specific experience to use properly. Users are expected to know what they’re doing before using such mods.
 <p><b>XephGBT is a for-fun project created on the author’s own time</b>, in the spirit of appreciating her friends and academic interest. Its purpose is to provide a bespoke, fun and challenging experience for the Special Requester and the author’s community, all of whom are highly experienced VR enthusiasts. <b>Understand this.</b></p>
 <p>Use your own judgment. Mod is provided as-is. Author gives no warranty and accepts no liability.</p>
