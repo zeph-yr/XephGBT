@@ -41,7 +41,7 @@ Type `!xg [space]` followed by one of the available requests:
 - Type `!xg help` for a list of keywords in-chat
 - Type `!xg info` or `!xg supporter` to learn about extra features or to share the mod with your community
 
-#### ChannelPoint Rewards
+#### Redeem ChannelPoint Rewards
 - When redeeming a JD or NJS change, be sure to **enter a JD or NJS value into the rewards message** that you'd like the streamer to play!
 - If send the redeem without inputting a value, I'll pick one for you to keep things running smoothly
 
@@ -52,26 +52,31 @@ Type `!xg [space]` followed by one of the available requests:
 
 ✨
 ## Guide for Streamers: How To Use
+#### Step 1. Install
 - Place XephGBT.dll into your `Plugins` directory
 - If you are a Supporter, configure your settings below to get the most of the experience!
 - Run game, start stream, and have fun with your community!
 
-### Setup Stream ChannelPoints and Limits
-#### 1. Stream-side settings:
+#### Supporters: Setup ChannelPoints Rewards and Limits
+#### Step 2. Stream-side Settings
 - Create new ChannelPoints Rewards for your stream account. If you're unsure how to do that refer to [Twitch's guide here.](https://help.twitch.tv/s/article/channel-points-guide)
-- Give each one a name. The defaults for the mod are "Invert Map", "Swap Colors", "Mirror Map", "Change JD", and "Change NJS" but feel free to change them to your liking.
+- Give each one a name. The defaults for the mod are `Invert Map`, `Swap Colors`, `Mirror Map`, `Change JD`, and `Change NJS` but feel free to change them to your liking.
 - For the JD and NJS rewards: **Enable the `Require Viewer to Enter Text` option**. In your reward description, I recommend you ask your viewer to enter a number. If your viewer does not enter a number when they redeem, I'll pick a random value for them within the limits you've set.
+<br><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/reward.png" width="250"/> <img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/config.png" width="300"/><br>
 
-#### 2. XephGBT config file:
-- Open `XephGBT.json` located in your `Beat Saber\UserData` directory. Enter the **exact names** that you've given to your rewards for their respective entries.
-- For JD and NJS limits: You may set *any* integer or float. Yes, any. Save and close.
-<br><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/config.png" width="250"/><br>
-A side note: It is highly discouraged to edit any other fields in the file not shown in this image. Those are for Bloq Transformers to read and not intended for humans. In the event you've perturbed them, delete the config file and restart the game. I will generate a new one 🙂
+#### Step 3. XephGBT Config File
+- Open `XephGBT.json` located in your `Beat Saber\UserData` directory. Enter the **exact names** that you've given to your rewards for their respective entries. See screenshots above.
+- For JD and NJS limits: You may set *any* integer or float for `min_jd`, `max_jd`, `min_njs`, and `max_njs`. Yes, any. Save and close.
+- A side note: It is highly discouraged to edit any other fields in the file not shown in this image. Those are for Bloq Transformers to read and not intended for humans. In the event you've perturbed them, delete the config file and restart the game. I will generate a new one 🙂
 
 ## About
 Copyright © 2023 Zephyr | www.xephai.com
+
 <p>A lot of really, really hard work and countless hours went into the making of this mod. I wanted to have something unique and fun as a token of appreciation for my amazing friends and the community.</p>
-<p>This marks exactly 3 years since I started streaming and playing this game! Thank you for giving me your time and friendship, and going through a global pandemic and lockdown in VR with me. Our wee-hour MP sessions and conversations in 1.11.0, hardcore tournaments, pats for Bunbun and Chuchu, and game-bending shenanigans are memories I cherish forever. Here's to more to come!</p>
-<p>I hope you enjoy playing with XephGBT as much as I did developing it. Thanks Wulflee for the Special Request.</p>
+
+<p>🎉 This marks exactly 3 years since I started streaming and playing this game! Thank you for giving me your time and friendship, and going through a global pandemic and lockdown in VR with me. Our wee-hour MP sessions and conversations in 1.11.0, hardcore tournaments, pats for Bunbun and Chuchu, and game-bending shenanigans are memories I cherish forever. Here's to more to come!🥳</p>
+
+<p>I hope you enjoy playing with XephGBT as much as I did developing it ❤️ Thanks Wulflee for the Special Request.</p>
+
 <p><b>A warm note:</b> This mod changes a player's game instantly. Please keep in mind when interacting with broadcasters that you are interacting with a real person. Please treat them with respect, in a way they would like to be treated. If you're unsure, they'll appreciate your asking 🤗</p>
 
