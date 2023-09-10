@@ -81,11 +81,11 @@ Type `!xg [space]` followed by one of the available transformations:
 - For JD and NJS limits: You may set *any* integer or float for `min_jd`, `max_jd`, `min_njs`, and `max_njs`. Yes, any. Save and close.
 - A side note: It is highly discouraged to edit any other fields in the file. They're for BloqTransformers to read and not intended for humans. In the event you've perturbed them, delete the config file and restart the game. I'll generate a new one 🙂
 
-#### Notes For Streamers
-Mods that interact with chat or change gameplay in real-time require streaming, VR and game-specific experience to use properly. Users are expected to know what they’re doing before using such mods on a live stream.
-<p><b>XephGBT is a for-fun project created on the author’s own time</b>, in the spirit of appreciation for her friends and academic interest. Its purpose is to provide a bespoke fun and challenging experience for the Special Requester and the author’s community, all of whom are highly experienced VR enthusiasts.</p>
-<p>Use your own judgment, be responsible, and have fun! <b>If you don’t understand, don’t agree etc, then it is recommended not to download or play it.</b></p>
-<p><b>XephGBT is a mod intended for expert users, like ◆◆ slopes are for expert skiers. It is not recommended to use XephGBT if you are not experienced in streaming and VR.</b></p>
+### Take Note Before Downloading
+Mods that interact with chat or change gameplay in real-time require streaming, VR and game-specific experience to use properly. Users are expected to know what they’re doing before using such mods on a live broadcast.
+<p><b>XephGBT is a for-fun project created on the author’s own time</b>, in the spirit of appreciation for her friends and academic interest. Its purpose is to provide a bespoke, fun and challenging experience for the Special Requester and the author’s community, all of whom are highly experienced VR enthusiasts. <b>Understand this.</b></p>
+<p>Use your own judgment.</p>
+<p><b>ELI5: XephGBT is a mod intended for expert users, like ◆◆ slopes are for expert skiers. It is not recommended to use XephGBT if you are not experienced in streaming and VR.</b></p>
 
 
 ## About
