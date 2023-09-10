@@ -66,6 +66,7 @@ Type `!xg [space]` followed by one of the available requests:
 - If you are a Supporter, configure your settings below to get the most of the experience!
 - Run game, start stream, and have fun with your community!
 
+
 #### Supporters: Setup ChannelPoints Rewards and Limits
 #### Step 2. Stream-side Settings
 - Create new ChannelPoints Rewards for your stream account. If you're unsure how to do that refer to [Twitch's guide here.](https://help.twitch.tv/s/article/channel-points-guide)
