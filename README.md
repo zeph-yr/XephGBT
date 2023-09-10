@@ -91,9 +91,9 @@ Mods that interact with chat or change gameplay in real-time require streaming, 
 ## About
 Copyright © 2023 Zephyr | www.xephai.com
 
-<p>A lot of really, really hard work and countless hours went into the making of this mod. I wanted to have something unique and fun as a token of appreciation for my amazing friends and the community.</p>
+<p>A lot of really, really hard work and countless hours (and cups of caffeine) went into the making of this mod. I wanted to have something unique and fun as a token of appreciation for my amazing friends and the community.</p>
 
-<p>🎉 This marks exactly 3 years since I started streaming and playing this game! Thank you for giving me your time and friendship, and going through a global pandemic and lockdown in VR with me. Our wee-hour MP sessions and conversations in 1.11.0, hardcore tournaments, pats for Bunbun and Chuchu, and game-bending shenanigans are memories I cherish forever. Here's to more to come!🥳</p>
+<p>🎉 This marks exactly 3 years since I started streaming and playing this game! Thank you for giving me your time and friendship, and going through a global pandemic and lockdown in VR with me. Our wee-hours MP sessions and conversations in 1.11.0, hardcore tournaments, pats for my kitty strimers, game-bending shenanigans and jokes when I laughed til I couldn't breathe are memories I cherish. Here's to more coming!🥳</p>
 
 <p>I hope you enjoy playing with XephGBT as much as I did developing it ❤️ Thanks Wulflee for the Special Request.</p>
 
