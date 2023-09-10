@@ -97,5 +97,5 @@ Copyright © 2023 Zephyr | www.xephai.com
 
 <p>I hope you enjoy playing with XephGBT as much as I did developing it ❤️ Thanks Wulflee for the Special Request.</p>
 
-<p><b>One more time.</b> This mod changes a player's game instantly. Please keep in mind when interacting with broadcasters that you are interacting with a real person. Please treat them with respect, in a way they would like to be treated. If you're unsure, they'll appreciate your asking 🤗</p>
+<p><b>One more time.</b> This mod changes a player's game instantly. Please keep in mind when interacting with broadcasters that you are interacting with a real person. Please treat them with respect, in a way they would like to be treated. If you're unsure, they'll probably appreciate your asking 🤗</p>
 
