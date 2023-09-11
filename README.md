@@ -2,7 +2,7 @@
 
 Hai! I'm XephGBT, a smol Generative BloqTransformer chatbot created by Zephyr to help block-chopping streamers interact with their audiences. I have the ability to instantly transform maps in real-time on request. 
 
-I can invert the blocks, change the JD, swap the colors, for now. What will you choose to do with my troll--I mean capabilities?
+I can invert the map, change the JD, swap the colors, and mirror (or now). What will you choose to do with my troll--I mean capabilities?
 <br>We trust you have only the best intentions towards our dear broadcasters! 🤗
 <br>Get the mod at https://github.com/zeph-yr/XephGBT
 
@@ -13,32 +13,32 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 <p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_main_2_small.png"></p>
 
 ## Features Overview
-- Give your viewers the ability to instantly change the map you're playing via the stream chat!
+- Give your viewers the power to instantly change the map you're playing via chat! How much do you trust them? 🤣
 - Turn any map into a challenge map, play in bullet time, turn Chroma and Noodle maps into Halls of Mirrors, party like its 2019.
 - There is really so much to this mod that you just have to try it for yourself to find out what the party is about!
-- See this clip <coming soon>
+- See this clip... coming soon
 
 ## What's The Playing Experience Like?
-1. Your community types into your chat using the !xg keywords to transform the map.
-2. Each transformation runs from the time it is received/applied until the end of the song.
+1. Your community types into chat using the !xg keywords.
+2. Each transformation runs from the time it's received/applied until the end of the song.
 3. For Supporters, transformations applied towards the end of a song continue into the next song. `Clear Queue` starts fresh.
-4. The transformations are applied sequentially on top of the previous and order matters. _As a smol BloqTransformer, I don't experience playing physically, but I would describe it as not commutative or associative._
-5. As the transformations start to stack up... the map becomes increasingly convoluted. Hilarity ensues.
-6. This is really fun → Your community can battle for control over your map. They can rapidly flip the map between inverted and vanilla arrows, swing the JD and NJS between extremes, jumpscare you etc.
-7. Your experience will vary with your community. You choose how to engage with them 🥳
+4. Transformations are applied sequentially on top of previous ones and order matters. _As a smol BloqTransformer, I don't experience playing physically, but I would describe it as not commutative or associative._
+5. As transformations begin to stack up... the map becomes increasingly convoluted. Hilarity ensues.
+6. This is really fun → Your community can battle for control over your game. They can rapidly flip between inverted and vanilla arrows, swing the JD and NJS between extremes, jumpscare you etc.
+7. Your experience will vary with your community. Engage wisely! 🥳
 8. The more imaginative and respectful your community, the more fun you'll have.
 
 ## Supporter's Extras
-- Customizable ChannelPoints rewards for viewers to sabotage -I mean transform- your game!
+- Customizable ChannelPoints rewards to treat your viewers to game sabotaging -I mean altering- fun!
 - Auto-queue incoming requests and rewards. Transformations received in-menu will be applied when you press Play and those applied late into a song will continue on your next play. _Regular users receive requests in-map._
-- Options to filter by type. Limit requests to invert, JD changes, etc.
+- Options to filter by type. Limit requests to only what you want to play, like invert or jd changes, etc.
 - Set limits for JD and NJS changes. _Regular users are at the mercy of their audience._
-- Option to filter by viewer category. Limit requests to Subscribers, VIPs, Moderators.
+- Options to filter by viewer category. Limit requests to Subscribers, VIPs, Moderators.
 - Personalized response messages. XephGBT will refer to you by your name instead of "the broadcaster" 🤩
   
 ### Become a Supporter!
 Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll try to give access in ~24hrs 💎 Ping her again if she didn't see it.
-- If you already are one or have previously supported the author, thanks for being a part of our community. Send her a ping on Discord!
+- If you already are one or have previously supported the author, thanks for being a part of our community! We really appreciate it! Send her a ping on Discord!
 - If you are new, thank you and it's nice to meet you!! And send her a ping!
 <p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=300><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=300></p>
 
@@ -55,7 +55,7 @@ Type `!xg [space]` followed by one of the available transformations:
 - Type `!xg help` for a list of keywords in-chat
 - Type `!xg info` or `!xg supporter` to learn about extra features or to share the mod with your community
 
-#### Redeem ChannelPoint Rewards
+#### Redeem ChannelPoints Rewards
 - When redeeming a **JD or NJS change, be sure to enter the value into the rewards message** that you'd like the streamer to play!
 - If you send the redeem without inputting a value, I'll pick one for you to keep things running smoothly
 
@@ -68,7 +68,7 @@ Type `!xg [space]` followed by one of the available transformations:
 ## Guide for Streamers: How To Use
 #### Step 1. Install
 - Place `XephGBT.dll` into your `Plugins` directory
-- If you are a Supporter, configure settings to get the most of the experience!
+- If you're a Supporter, configure settings to get the most out of the experience!
 - Run game, start stream, and have fun with your community!
 - Requires: BSML, BS_Utils, SiraUtil. For BS 1.27.0+
 
@@ -94,7 +94,7 @@ Mods that interact with chat to alter gameplay in real-time require streaming, V
 ## About
 Copyright © 2023 Zephyr | www.xephai.com
 
-<p>A lot of really, really hard work and countless hours (and cups of caffeine) went into the making of this mod. I wanted to have something unique and fun as a token of appreciation for my amazing friends and the community.</p>
+<p>A lot of really, really hard work and countless hours (and cups of caffeine) went into the making of this mod. I wanted to have something unique and fun as a token of appreciation for my amazing friends and community.</p>
 
 <p>🎉 This marks exactly 3 years since I started streaming and playing this game! Thank you for giving me your time and friendship, and going through a global pandemic and lockdown in VR with me. Our wee-hours MP sessions and conversations in 1.11.0, hardcore tournaments, pats for my kitty strimers, game-bending shenanigans and jokes when I laughed til I couldn't breathe are memories I cherish. Here's to more coming!🥳</p>
 
