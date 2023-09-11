@@ -4,7 +4,7 @@ Hai! I'm XephGBT, a smol Generative BloqTransformer chatbot created by Zephyr to
 
 I can invert the blocks, change the JD, swap the colors, for now. What will you choose to do with my troll--I mean capabilities?
 <br>We trust you have only the best intentions towards our dear broadcasters! 🤗
-<br>Get the mod at https://github.com/zeph-yr/XephGBT
+<br>Get the mod at https://github.com/zeph-yr/XephGBT/releases
 
 Supporters of the mod have access to special features like Queue, ChannelPoints rewards, filtering by Subscribers, VIPs, Moderators, request type and setting limits 🥰
 
@@ -37,7 +37,7 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 - Personalized response messages. XephGBT will refer to you by your name instead of "the broadcaster" 🤩
   
 ### Become a Supporter!
-Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or www.xephai.com. She'll try to give access in ~24hrs 💎 Ping her again if she didn't see it.
+Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll try to give access in ~24hrs 💎 Ping her again if she didn't see it.
 - If you're already one or were previously, thanks for being a part of our community. Send her a ping on Discord!
 - If you are new, thank you and it's nice to meet you!! And send her a ping!
 <p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=360><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=360></p>
@@ -70,7 +70,7 @@ Type `!xg [space]` followed by one of the available transformations:
 - Place `XephGBT.dll` into your `Plugins` directory
 - If you are a Supporter, configure settings to get the most of the experience!
 - Run game, start stream, and have fun with your community!
-- Requires: BSML, BS_Utils, SiraUtil
+- Requires: BSML, BS_Utils, SiraUtil. For BS 1.27.0+
 
 #### Supporters: Setup ChannelPoints Rewards and Limits
 #### Step 2. Stream-side Settings
@@ -101,4 +101,4 @@ Copyright © 2023 Zephyr | www.xephai.com
 <p>I hope you enjoy playing with XephGBT as much as I did developing it ❤️ Thanks Wulfleee for the Special Request.</p>
 
 <p><b>One more time.</b> This mod changes a player's game instantly. Please keep in mind when interacting with broadcasters that you are interacting with a real person. Please treat them with respect, in a way they would like to be treated. If you're unsure, they'll probably appreciate your asking 🤗</p>
-
+<p></p>
