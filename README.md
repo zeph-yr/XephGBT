@@ -1,4 +1,4 @@
-# XephGBT
+# XephGBT (Sabotage Mod)
 
 Hai! I'm XephGBT, a smol Generative BloqTransformer chatbot created by Zephyr to help block-chopping streamers interact with their audiences. I have the ability to instantly transform maps in real-time on request. 
 
@@ -8,13 +8,15 @@ I can invert the blocks, change the JD, swap the colors, for now. What will you 
 
 Supporters of the mod have access to special features like Queue, ChannelPoints rewards, filtering by Subscribers, VIPs, Moderators, request type and setting limits 🥰
 
-**TLDR: I am JDFixer and Chirality on steroids, but chat. And this is just the beginning!** 
+**TLDR: I am JDFixer and Chirality on steroids, but chat. And this is just the beginning!**
+
+<p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_main_2_small.png"></p>
 
 ## Features Overview
 - Give your viewers the ability to instantly change the map you're playing via the stream chat!
 - Turn any map into a challenge map, play in bullet time, turn Chroma and Noodle maps into Halls of Mirrors, party like its 2019.
 - There is really so much to this mod that you just have to try it for yourself to find out what the party is about!
-- See this clip
+- See this clip <coming soon>
 
 ## What's The Playing Experience Like?
 1. Your community types into your chat using the !xg keywords to transform the map.
@@ -38,8 +40,8 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or www.xephai.com. She'll try to give access in ~24hrs 💎 Ping her again if she didn't see it.
 - If you're already one or were previously, thanks for being a part of our community. Send her a ping on Discord!
 - If you are new, thank you and it's nice to meet you!! And send her a ping!
+<p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=360><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=360></p>
 
-✨
 ## Guide for Viewers: How to interact with the streamer's game
 #### Request Keywords
 Type `!xg [space]` followed by one of the available transformations:
@@ -84,11 +86,11 @@ Type `!xg [space]` followed by one of the available transformations:
 
 ### Disclaimer Before Downloading
 Mods that interact with chat or change gameplay in real-time require streaming, VR and game-specific experience to use properly. Users are expected to know what they’re doing before using such mods.
-<p><b>XephGBT is a for-fun project created on the author’s own time</b>, in the spirit of appreciating her friends and academic interest. Its purpose is to provide a bespoke, fun and challenging experience for the Special Requester and the author’s community, all of whom are highly experienced VR enthusiasts. <b>Understand this.</b></p>
-<p>Use your own judgment. Mod is provided as-is. Author gives no warranty and accepts no liability.</p>
+<p><b>XephGBT is a for-fun project created on the author’s own time</b>, in appreciation of her friends and in the spirit of creativity and academic interest. Its purpose is to provide a bespoke, fun and challenging experience for the Special Requester and the author’s community, all of whom are highly experienced VR enthusiasts. Understand this.</p>
+<p>Use your own judgment. Mod is provided "as is" and "as available" without any warranty or guarantee. You agree that you are making use of the mod at your own risk.</p>
 <p><b>ELI5: XephGBT is a mod intended for expert users, like ◆◆ slopes are for expert skiers. It is not recommended to use XephGBT if you are not experienced in streaming and VR.</b></p>
 
-
+✨
 ## About
 Copyright © 2023 Zephyr | www.xephai.com
 
@@ -96,7 +98,7 @@ Copyright © 2023 Zephyr | www.xephai.com
 
 <p>🎉 This marks exactly 3 years since I started streaming and playing this game! Thank you for giving me your time and friendship, and going through a global pandemic and lockdown in VR with me. Our wee-hours MP sessions and conversations in 1.11.0, hardcore tournaments, pats for my kitty strimers, game-bending shenanigans and jokes when I laughed til I couldn't breathe are memories I cherish. Here's to more coming!🥳</p>
 
-<p>I hope you enjoy playing with XephGBT as much as I did developing it ❤️ Thanks Wulflee for the Special Request.</p>
+<p>I hope you enjoy playing with XephGBT as much as I did developing it ❤️ Thanks Wulfleee for the Special Request.</p>
 
 <p><b>One more time.</b> This mod changes a player's game instantly. Please keep in mind when interacting with broadcasters that you are interacting with a real person. Please treat them with respect, in a way they would like to be treated. If you're unsure, they'll probably appreciate your asking 🤗</p>
 
