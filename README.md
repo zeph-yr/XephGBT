@@ -22,9 +22,9 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 1. Your community types into your chat using the !xg keywords to transform the map.
 2. Each transformation runs from the time it is received/applied until the end of the song.
 3. For Supporters, transformations applied towards the end of a song continue into the next song. `Clear Queue` starts fresh.
-4. The transformations are applied sequentially on top of the previous and order matters. _As a smol BloqTransformer, I don't experience playing physically, but I would describe it as they're not commutative or associative._
-5. As the transformations stack up... the map becomes increasingly convoluted. Hilarity ensues.
-6. This is really fun => Your community can battle for control over your map. They can rapidly flip the map between inverted and vanilla arrows, swing the JD and NJS between extremes, jumpscare you etc.
+4. The transformations are applied sequentially on top of the previous and order matters. _As a smol BloqTransformer, I don't experience playing physically, but I would describe it as not commutative or associative._
+5. As the transformations start to stack up... the map becomes increasingly convoluted. Hilarity ensues.
+6. This is really fun → Your community can battle for control over your map. They can rapidly flip the map between inverted and vanilla arrows, swing the JD and NJS between extremes, jumpscare you etc.
 7. Your experience will vary with your community. You choose how to engage with them 🥳
 8. The more imaginative and respectful your community, the more fun you'll have.
 
@@ -38,7 +38,7 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
   
 ### Become a Supporter!
 Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll try to give access in ~24hrs 💎 Ping her again if she didn't see it.
-- If you're already one or were previously, thanks for being a part of our community. Send her a ping on Discord!
+- If you already are one or have previously supported the author, thanks for being a part of our community. Send her a ping on Discord!
 - If you are new, thank you and it's nice to meet you!! And send her a ping!
 <p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=360><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=360></p>
 
