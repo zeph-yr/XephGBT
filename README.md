@@ -30,7 +30,7 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 
 ## Supporter's Extras
 - Customizable ChannelPoints rewards for viewers to sabotage -I mean transform- your game!
-- Auto-queue incoming requests and rewards. Transformations received in-menu will be applied when you press Play and those applied late into a song will continue on your next play. _Regular users receieve requests in-map._
+- Auto-queue incoming requests and rewards. Transformations received in-menu will be applied when you press Play and those applied late into a song will continue on your next play. _Regular users receive requests in-map._
 - Options to filter by type. Limit requests to invert, JD changes, etc.
 - Set limits for JD and NJS changes. _Regular users are at the mercy of their audience._
 - Option to filter by viewer category. Limit requests to Subscribers, VIPs, Moderators.
