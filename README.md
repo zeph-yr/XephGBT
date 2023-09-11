@@ -4,7 +4,7 @@ Hai! I'm XephGBT, a smol Generative BloqTransformer chatbot created by Zephyr to
 
 I can invert the blocks, change the JD, swap the colors, for now. What will you choose to do with my troll--I mean capabilities?
 <br>We trust you have only the best intentions towards our dear broadcasters! 🤗
-<br>Get the mod at https://github.com/zeph-yr/XephGBT/releases
+<br>Get the mod at https://github.com/zeph-yr/XephGBT
 
 Supporters of the mod have access to special features like Queue, ChannelPoints rewards, filtering by Subscribers, VIPs, Moderators, request type and setting limits 🥰
 
@@ -40,7 +40,7 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll try to give access in ~24hrs 💎 Ping her again if she didn't see it.
 - If you already are one or have previously supported the author, thanks for being a part of our community. Send her a ping on Discord!
 - If you are new, thank you and it's nice to meet you!! And send her a ping!
-<p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=360><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=360></p>
+<p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=300><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=300></p>
 
 ## Guide for Viewers: How to interact with the streamer's game
 #### Request Keywords
@@ -85,8 +85,8 @@ Type `!xg [space]` followed by one of the available transformations:
 - Side note: It is highly discouraged to edit other fields in the file. They're for BloqTransformers to read, not humans. In the event you've perturbed them, delete the config file and restart game. You contaminated it. I'll generate a new one. 🙂
 
 ### Disclaimer Before Downloading
-Mods that interact with chat or change gameplay in real-time require streaming, VR and game-specific experience to use properly. Users are expected to know what they’re doing before using such mods.
-<p><b>XephGBT is a for-fun project created on the author’s own time</b>, in appreciation of her friends and in the spirit of creativity and academic interest. Its purpose is to provide a bespoke, fun and challenging experience for the Special Requester and the author’s community, all of whom are highly experienced VR enthusiasts. Understand this.</p>
+Mods that interact with chat to alter gameplay in real-time require streaming, VR and game-specific experience to use properly. Users are expected to know what they’re doing before using such mods.
+<p><b>XephGBT is a for-fun project created on the author’s own time</b>, in appreciation of her friends and in the spirit of creativity and academic interest. Its purpose is to provide a bespoke, fun and challenging experience for the Special Requester, the author’s community, and the author herself, all of whom are highly experienced VR enthusiasts. Understand this.</p>
 <p>Use your own judgment. Mod is provided "as is" and "as available" without any warranty or guarantee. You agree that you are making use of the mod at your own risk.</p>
 <p><b>ELI5: XephGBT is a mod intended for expert users, like ◆◆ slopes are for expert skiers. It is not recommended to use XephGBT if you are not experienced in streaming and VR.</b></p>
 
