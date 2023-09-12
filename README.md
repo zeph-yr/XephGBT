@@ -72,7 +72,7 @@ Type `!xg [space]` followed by one of the transformations:
 - Place `XephGBT.dll` into `Beat Saber\Plugins` directory
 - Supporters should configure settings to get the most out of the experience!
 - Run game, start stream and have fun with your community!
-- Requires: BSPlusCORE (and BSPlusChat if you want to see chat messages), BSML, BS_Utils, SiraUtil. For BS 1.27.0+
+- (Requirements and game version are here)[Requirements.md]
 
 #### For Supporters: Setup ChannelPoints Rewards and Limits
 #### Step 2. Stream-side Settings
