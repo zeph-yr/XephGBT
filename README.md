@@ -37,7 +37,7 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 - Personalized response messages. XephGBT will refer to you by your name instead of "the broadcaster" 🤩
   
 ### Become a Supporter!
-Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll give you the details and access in ~24hrs 💎 Ping her again if she didn't see it.
+Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll give you details and access in ~24hrs 💎 Ping her again if she didn't see it.
 - If you already are one or have previously supported the author, thanks for being a part of our community! We really appreciate it! Send her a ping on Discord!
 - If you a new supporter, thank you and it's nice to meet you!! And send her a ping!
 - If you would like to become one, awesome! We're on https://ko-fi.com/zeph_yr and https://patreon.com/xeph_yr or reach out if you have questions 🤗
@@ -49,41 +49,43 @@ Type `!xg [space]` followed by one of the transformations:
   - `invert`  like Chirality
   - `colors`  swap Red and Blue
   - `mirror`  switch Left and Righthanded mode
-  - `jd [space] [a number: any integer or decimal value]`
-  - `njs [space] [a number: any integer or decimal value]`
+  - `jd [space] [number: any integer or decimal value]`
+  - `njs [space] [number: any integer or decimal value]`
+  - **Example:**`!xg colors` or `!xg jd 100`
 
 #### In-chat Help
-- Type `!xg help` for a list of keywords in-chat
-- Type `!xg info` or `!xg supporter` to learn about extra features or to share the mod with your community
+- Type `!xg help` for list of keywords
+- Type `!xg info` or `!xg supporter` to learn about extra features and share mod link with your community
 
 #### Redeem ChannelPoints Rewards
-- When redeeming a **JD or NJS change, be sure to enter a value into the rewards message** that you'd like the streamer to play!
-- If you send the redeem without it, I'll pick one for you to keep things running smoothly
+- When redeeming a **JD or NJS change, do enter a value into the rewards message** that you'd like the streamer to play!
+- If you redeem without it, I'll pick one for you to keep things running smoothly
 
 #### Community Guidelines and Being a Good User
-- Do ask the streamer what their limits are. Choose to stay within them.
-- Know that your requests may be auto-rejected or removed by the person playing and it is ok.
-- Please be respectful especially to the person playing the game. Make it a fun experience for everyone 💖
+- Do ask the streamer what their limits are and stay within them.
+- Know that your requests may be auto-rejected or turned-down by the person playing and be ok with it.
+- Do be respectful especially to the person playing the game. Make it a fun experience for everyone 💖
 
 ✨
 ## Guide for Streamers: How to use the mod
 #### Step 1. Install
-- Place `XephGBT.dll` into your `Plugins` directory
-- If you're a Supporter, configure settings to get the most out of the experience!
-- Run game, start stream, and have fun with your community!
+- Place `XephGBT.dll` into `Beat Saber\Plugins` directory
+- Supporters should configure settings to get the most out of the experience!
+- Run game, start stream and have fun with your community!
 - Requires: BSPlusCORE (and BSPlusChat if you want to see chat messages), BSML, BS_Utils, SiraUtil. For BS 1.27.0+
 
 #### For Supporters: Setup ChannelPoints Rewards and Limits
 #### Step 2. Stream-side Settings
-- Create new Rewards in your channel. Refer to [Twitch's guide here.](https://help.twitch.tv/s/article/channel-points-guide)
-- Give each a **unique** name. Config defaults are `Invert Map`, `Swap Colors`, `Mirror Map`, `Change JD`, `Change NJS`.
-- For JD and NJS rewards: **Enable the `Require Viewer to Enter Text` option**. In the descriptions, I recommend you ask viewers to enter a number. If a viewer does not enter a number when they redeem, I'll pick a random value within the limits you've set.
+- Create new Rewards in your channel, one per type you want to use. Refer to [Twitch's guide here.](https://help.twitch.tv/s/article/channel-points-guide)
+- Give each a **unique** name or use these defaults: `Invert Map`, `Swap Colors`, `Mirror Map`, `Change JD`, `Change NJS`.
+- For JD and NJS rewards: **Enable the `Require Viewer to Enter Text` option**. In the description, I recommend you ask viewers to enter a number. If a viewer doesn't enter one, I'll pick a random value within the limits you've set.
 <br><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/reward.png" width="250"/> <img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/config.png" width="300"/><br>
 
 #### Step 3. XephGBT Config File
-- Open `XephGBT.json` located in your `Beat Saber\UserData` directory. Fill out the fields with the **exact names** of your rewards from Step 2.
+- Run game once to generate config file.
+- Open `XephGBT.json` located in `Beat Saber\UserData` directory. Fill out the fields with the **exact names** of your rewards from Step 2.
 - Customize JD and NJS limits: *Any integer or float* for `min_jd`, `max_jd`, `min_njs`, and `max_njs` is accepted. Save and close.
-- Side note: It is highly discouraged to edit other fields in the file. They're for BloqTransformers to read, not humans. In the event you've perturbed them, delete the config file and restart game. You contaminated it. I'll generate a new one. 🙂
+- Side note: It is highly discouraged to edit other fields in the file. They're for BloqTransformers to read, not humans. In the event you've perturbed them, delete the config file and restart game. You contaminated it. I'll generate a new one 🙂
 
 ### Disclaimer Before Downloading
 Mods that interact with chat to alter gameplay in real-time require streaming, VR and game-specific expertise to use properly. Users are expected to know what they’re doing before using such mods.
