@@ -40,7 +40,8 @@ Supporters of the mod have access to special features like Queue, ChannelPoints 
 Verification is done offline. Please reach out to my creator Zephyr9125 on Discord or zephyr@xephai.com. She'll give you details and access in ~24hrs 💎 Ping her again if she didn't see it.
 - If you already are one or have previously supported the author, thanks for being a part of our community! We really appreciate it! Send her a ping on Discord!
 - If you a new supporter, thank you and it's nice to meet you!! And send her a ping!
-- If you would like to become one, awesome! We're on https://ko-fi.com/zeph_yr and https://patreon.com/xeph_yr or reach out if you have questions 🤗
+- If you would like to become one, awesome and TY! We're on https://ko-fi.com/zeph_yr and https://patreon.com/xeph_yr
+- Reach out if you have questions 🤗
 <p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_1_crop.png" height=300><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=300></p>
 
 ## Guide for Viewers: How to interact with the streamer's game
@@ -72,7 +73,7 @@ Type `!xg [space]` followed by one of the transformations:
 - Place `XephGBT.dll` into `Beat Saber\Plugins` directory
 - Supporters should configure settings to get the most out of the experience!
 - Run game, start stream and have fun with your community!
-- [Requirements and game version are here](Requirements.md)
+- **Make sure you have these:** [Requirements and game version are here](Requirements.md)
 
 #### For Supporters: Setup ChannelPoints Rewards and Limits
 #### Step 2. Stream-side Settings
