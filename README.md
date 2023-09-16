@@ -41,7 +41,7 @@ Verification is done offline. Please reach out to my creator Zephyr9125 on Disco
 - If you already are one or have previously supported the author, thanks for being a part of our community! We really appreciate it! Send her a ping on Discord!
 - If you a new supporter, thank you and it's nice to meet you!! And send her a ping!
 - If you would like to become one, awesome! We're on https://ko-fi.com/zeph_yr and https://patreon.com/xeph_yr or reach out if you have questions 🤗
-<p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_3_crop.png" height=300><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=300></p>
+<p><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_1_crop.png" height=300><img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_supporter_2_crop.png" height=300></p>
 
 ## Guide for Viewers: How to interact with the streamer's game
 #### Request Keywords
@@ -105,3 +105,4 @@ Copyright © 2023 Zephyr | www.xephai.com
 
 <p><b>One more time.</b> This mod changes a player's game instantly. Please keep in mind when interacting with broadcasters that you are interacting with real people. Please treat them with respect, in a way they would like to be treated. If you're unsure, they'll probably appreciate your asking 🤗</p>
 <p></p>
+<img src="https://github.com/zeph-yr/XephGBT/blob/main/Screenshots/menu_main_regular_1.png" height="400"/>
